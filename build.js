@@ -11,6 +11,8 @@
  * Added confirmation checkbox functionality for submit blocker
  */
 
+console.log("Hello!");
+
 class JewelryBuilderWizard {
     constructor() {
         this.currentStep = 1;
